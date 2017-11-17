@@ -8,3 +8,6 @@ I'm very happy to begin my first repository.
 I'm an electronic engineer.
 
 I like painting.
+
+
+I love to write code.
